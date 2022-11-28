@@ -1,0 +1,6 @@
+1. The network monitor and the interface monitor directly. This shows the relationship between the monitors and the other network architecture components.
+2. Yes, there could be an interface monitor and a network monitor within one process. However, there may be many interface monitors and one network monitor in one process.
+3. Yes, there may be an interface monitor and a network monitor within one process with an efficient polling interval.
+4. A software-defined Networking is an approach to networking that uses application programming interfaces or software-based controllers. An application layer is an abstraction layer that specifies interface methods and communication protocols. The control layer is responsible for identifying network protocols. The forwarding layer is responsible for routing packets upon arrival at the interfaces.
+
+ 
